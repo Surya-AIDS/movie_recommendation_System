@@ -22,12 +22,12 @@ Requests – Fetching movie posters dynamically from TMDb API
 
 Movie-Recommender-System/
 │
-├── app.py                     # Streamlit application
+├── app.py                    
 ├── model/
-│   ├── movie_list.pkl          # Movie dataset
-│   └── similarity.pkl          # Precomputed similarity matrix
-├── README.md                   # Project description
-└── requirements.txt            # Required Python packages
+│   ├── movie_list.pkl         
+│   └── similarity.pkl          
+├── README.md                  
+└── requirements.txt          
 
 
 🔍 Key Features
@@ -68,5 +68,5 @@ Run the Streamlit app using streamlit run app.py
 
 Select a movie from the dropdown and click “Show Recommendation” to view personalized suggestions
 
-🙌 Author
+🙌 Author...
 Surya Prakash P – B.Tech Artificial Intelligence & Data Science Student | Aspiring Data Scientist | AI & Analytics Enthusiast
